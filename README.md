@@ -24,8 +24,8 @@ The data format should be jsonlines, each line should be like this:
   "events": [["subj_1", "v_1", "obj1"], ["subj_2", "v_2", "obj2"], ...],
   "lable": 1,
   "crop": "apple inc",
-  "e2e_edges": [[0, 1], [1, 3], ...],
-  "e2s_edges": [[0, 1], [1, 2], ...]
+  "e2e_edges": [[0, 1], [1, 3], "..."],
+  "e2s_edges": [[0, 1], [1, 2], "..."]
 }
 ```
 
