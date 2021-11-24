@@ -31,7 +31,7 @@ The data format should be jsonlines, each line should be like this:
 
 - sentences: the set of sentences in news documents;
 - events: the set of event triples extracted from sentences;
-- crop: the corporation to be predicted.
+- crop: the corporation whose stock prices need to be predicted;
 - label: 0 and 1 represents the stock price of the "crop" will decline and rise, respectively;
 - e2e_edges: connections between two events, [0, 1] represents the first event is connected with the second one;
 - e2s_edges: connections between sentences and events, [0, 1] represents the first event is connected with the second sentence.
