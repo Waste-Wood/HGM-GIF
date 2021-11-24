@@ -67,18 +67,13 @@ If you find the paper or the resource is useful, please cite our work in your pa
 - [https://www.sciencedirect.com/science/article/pii/S2666651021000243](https://www.sciencedirect.com/science/article/pii/S2666651021000243)
 
 ```tex
-@article{XIONG2021168,
-title = {Heterogeneous graph knowledge enhanced stock market prediction},
-journal = {AI Open},
-volume = {2},
-pages = {168-174},
-year = {2021},
-issn = {2666-6510},
-doi = {https://doi.org/10.1016/j.aiopen.2021.09.001},
-url = {https://www.sciencedirect.com/science/article/pii/S2666651021000243},
-author = {Kai Xiong and Xiao Ding and Li Du and Ting Liu and Bing Qin},
-keywords = {Stock market prediction, Heterogeneous graph, Representation learning, Heterogeneous graph neural networks},
-abstract = {We focus on the task of stock market prediction based on financial text which contains information that could influence the movement of stock market. Previous works mainly utilize a single semantic unit of financial text, such as words, events, sentences, to predict the tendency of stock market. However, the interaction of different-grained information within financial text can be useful for context knowledge supplement and predictive information selection, and then improve the performance of stock market prediction. To facilitate this, we propose constructing a heterogeneous graph with different-grained information nodes from financial text for the task. A novel heterogeneous neural network is presented to aggregate multi-grained information. Experimental results demonstrate that our proposed approach reaches higher performance than baselines.}
-}
+@article{xiong2021heterogeneous,
+  title={Heterogeneous graph knowledge enhanced stock market prediction},
+  author={Xiong, Kai and Ding, Xiao and Du, Li and Liu, Ting and Qin, Bing},
+  journal={AI Open},
+  volume={2},
+  pages={168--174},
+  year={2021},
+  publisher={Elsevier}
 ```
 
