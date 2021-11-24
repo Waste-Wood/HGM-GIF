@@ -1,6 +1,6 @@
 # HGM-GIF
 
-Code for AI Open 2021 Paper: [Heterogeneous Graph Knowledge Enhanced Stock Market Prediction](https://www.sciencedirect.com/science/article/pii/S2666651021000243)
+Code for AI Open Paper: [Heterogeneous Graph Knowledge Enhanced Stock Market Prediction](https://www.sciencedirect.com/science/article/pii/S2666651021000243)
 
 Some code are borrowed from [HeterSumGraph](https://github.com/dqwang122/HeterSumGraph). Thanks for their work.
 
