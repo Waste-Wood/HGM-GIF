@@ -38,7 +38,7 @@ The data format should be jsonlines, each line should be like this:
 
 We use [CoreNLP](http://standfordnlp.github.io/CoreNLP/) for event extraction.
 
-
+TF-IDF files generation can refer to [HeterSumGraph](https://github.com/dqwang122/HeterSumGraph).
 
 ## Train
 
