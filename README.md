@@ -42,7 +42,7 @@ TF-IDF files generation can refer to [HeterSumGraph](https://github.com/dqwang12
 
 Raw Data can refer to [here](https://github.com/sudy/coling2018).
 
-Processed data is stored in the `./data/` directory.
+Processed data can refer to [here](https://pan.baidu.com/s/1jqO0ZXCg3aIEEPlnT-Wd3g), password: `19i0`.
 
 ## Train
 
