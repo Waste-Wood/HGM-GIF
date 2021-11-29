@@ -40,6 +40,9 @@ We use [CoreNLP](http://standfordnlp.github.io/CoreNLP/) for event extraction.
 
 TF-IDF files generation can refer to [HeterSumGraph](https://github.com/dqwang122/HeterSumGraph).
 
+Raw Data can refer to [here](https://github.com/sudy/coling2018)
+Processed data is stored in the `./data/` directory.
+
 ## Train
 
 For training, you can run the commands like this:
